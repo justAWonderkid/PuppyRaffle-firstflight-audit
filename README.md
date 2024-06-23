@@ -7,6 +7,7 @@ First Flights are 7 days long smart contracts auditing challenges characterised 
 This project is to enter a raffle to win a cute dog NFT. The protocol should do the following:
 
 • Call the enterRaffle function with the following parameters:
+<br>
     address[] participants: A list of addresses that enter. You can use this to enter yourself multiple times, or yourself and a group of your friends.
 • Duplicate addresses are not allowed
 • Users are allowed to get a refund of their ticket & value if they call the refund function
