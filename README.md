@@ -8,7 +8,7 @@ This project is to enter a raffle to win a cute dog NFT. The protocol should do 
 
 • Call the enterRaffle function with the following parameters:
 <br>
-    address[] participants: A list of addresses that enter. You can use this to enter yourself multiple times, or yourself and a group of your friends.
+&nbsp;&nbsp;    address[] participants: A list of addresses that enter. You can use this to enter yourself multiple times, or yourself and a group of your friends.
 <br>
 • Duplicate addresses are not allowed
 <br>
